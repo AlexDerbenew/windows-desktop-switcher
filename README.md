@@ -1,5 +1,10 @@
 # Fork info
 This is my fork to make Windows virtual desktops work like the most Linux distros does. E.g. Elementary OS.
+Switch virtual desktop by Win + <num>
+Create new desktop by Win+~
+Remove current desktop by Win+Esc
+Move active window to desktop number <N> by Win+Shift+<N>
+Move to Right/Left desktop by Win+<Right/Left>
 
 # windows-desktop-switcher
 An AutoHotkey script for Windows that lets a user change virtual desktops by pressing CapsLock + &lt;num> or other custom key combination. It also provides other features, such as creation/deletion of desktops by hotkey, etc. (see Hotkeys section below).
