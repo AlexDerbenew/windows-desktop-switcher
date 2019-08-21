@@ -35,7 +35,7 @@
 #Left::switchDesktopToLeft()
 +tab::switchDesktopToLastOpened()
 
-#~::createVirtualDesktop()
+#`::createVirtualDesktop()
 #Esc::deleteVirtualDesktop()
 
 #+1::MoveCurrentWindowToDesktop(1)
