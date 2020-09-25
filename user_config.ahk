@@ -32,10 +32,13 @@
 #9::switchDesktopByNumber(9)
 
 #Right::switchDesktopToRight()
+#WheelUp::switchDesktopToRight()
 #Left::switchDesktopToLeft()
+#WheelDown::switchDesktopToLeft()
 +tab::switchDesktopToLastOpened()
 
 #`::createVirtualDesktop()
+#MButton::createVirtualDesktop()
 #Esc::deleteVirtualDesktop()
 
 #+1::MoveCurrentWindowToDesktop(1)
