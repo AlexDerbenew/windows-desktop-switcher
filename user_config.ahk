@@ -35,7 +35,7 @@
 #WheelUp::switchDesktopToRight()
 #Left::switchDesktopToLeft()
 #WheelDown::switchDesktopToLeft()
-+tab::switchDesktopToLastOpened()
+;+tab::switchDesktopToLastOpened()
 
 #`::createVirtualDesktop()
 #MButton::createVirtualDesktop()
